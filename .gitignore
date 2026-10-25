@@ -3,3 +3,4 @@ node_modules/
 data/marks.json
 .DS_Store
 .vscode/
+lib/data/
